@@ -8,4 +8,4 @@ To run the Power Matcher simulation follow the following instruction
 6. You could see the program running and two dynamic graphs displaying
 7. At the end of the simulation there will be in total four graphs
 
-** For more information about this project look at https://www.teammatrix.co.in/powermatcherv1
+** For more information about this project look at https://www.teammatrix.co.in/powermatchernkp
